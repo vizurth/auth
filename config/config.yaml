@@ -1,0 +1,9 @@
+postgres:
+  host: "localhost"
+  port: 54321
+  username: "auth-user"
+  password: "auth-password"
+  database: "auth"
+
+grpc:
+  port: 50051
